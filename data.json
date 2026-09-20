@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "appVersion": "2.0",
+    "market": "UK",
+    "currency": "GBP",
+    "lastUpdated": "2026-09-20",
+    "note": "Observed external market snapshot; exact product prices are estimates unless explicitly reported by the source."
+  },
+  "opportunities": [
+    {
+      "name": "Nike Tech Fleece hoodie / tracksuit pieces",
+      "brand": "Nike",
+      "category": "Sportswear",
+      "saleLow": 35,
+      "saleHigh": 60,
+      "maxBuy": 18,
+      "demand": 94,
+      "trend": "+18%",
+      "sellThrough": "High",
+      "why": "Nike is the largest UK brand by observed 30-day sales in the latest snapshot.",
+      "source": "VintAnalytics UK"
+    },
+    {
+      "name": "adidas Samba / popular adidas trainers",
+      "brand": "adidas",
+      "category": "Trainers",
+      "saleLow": 35,
+      "saleHigh": 65,
+      "maxBuy": 25,
+      "demand": 91,
+      "trend": "+12%",
+      "sellThrough": "High",
+      "why": "adidas is among the highest-volume UK brands in the latest observed 30-day data.",
+      "source": "VintAnalytics UK"
+    },
+    {
+      "name": "UGG boots / autumn footwear",
+      "brand": "UGG",
+      "category": "Boots",
+      "saleLow": 45,
+      "saleHigh": 85,
+      "maxBuy": 30,
+      "demand": 82,
+      "trend": "+20%",
+      "sellThrough": "Seasonal",
+      "why": "UK category data shows boots entering the autumn seasonal window.",
+      "source": "Fripilot UK"
+    },
+    {
+      "name": "The North Face jackets / puffers",
+      "brand": "The North Face",
+      "category": "Jackets",
+      "saleLow": 45,
+      "saleHigh": 90,
+      "maxBuy": 32,
+      "demand": 84,
+      "trend": "+16%",
+      "sellThrough": "Medium-high",
+      "why": "The North Face is a high-volume premium brand in the latest UK snapshot.",
+      "source": "VintAnalytics UK"
+    },
+    {
+      "name": "Levi's 501 / classic denim",
+      "brand": "Levi's",
+      "category": "Jeans",
+      "saleLow": 22,
+      "saleHigh": 45,
+      "maxBuy": 12,
+      "demand": 78,
+      "trend": "+7%",
+      "sellThrough": "Medium",
+      "why": "Levi's is a major UK sales-volume brand and classic denim is a low-cost sourcing category.",
+      "source": "VintAnalytics UK"
+    },
+    {
+      "name": "Ralph Lauren quarter-zips / polos",
+      "brand": "Ralph Lauren",
+      "category": "Tops",
+      "saleLow": 35,
+      "saleHigh": 65,
+      "maxBuy": 22,
+      "demand": 80,
+      "trend": "+9%",
+      "sellThrough": "Medium-high",
+      "why": "Ralph Lauren has a comparatively high observed average sold price among major UK brands.",
+      "source": "VintAnalytics UK"
+    },
+    {
+      "name": "Under Armour sportswear",
+      "brand": "Under Armour",
+      "category": "Sportswear",
+      "saleLow": 18,
+      "saleHigh": 35,
+      "maxBuy": 10,
+      "demand": 76,
+      "trend": "+6%",
+      "sellThrough": "Very high",
+      "why": "The latest UK snapshot reports 45% sell-through for Under Armour.",
+      "source": "VintAnalytics UK"
+    },
+    {
+      "name": "Branded jackets & coats",
+      "brand": "Various",
+      "category": "Jackets / coats",
+      "saleLow": 20,
+      "saleHigh": 50,
+      "maxBuy": 15,
+      "demand": 74,
+      "trend": "+15%",
+      "sellThrough": "Seasonal",
+      "why": "A recent UK price study found jackets and coats have a higher upper-end selling range than their category medians as autumn approaches.",
+      "source": "Fripilot UK"
+    }
+  ],
+  "market": {
+    "sourceDate": "2026-09-18",
+    "topBrands": [
+      {
+        "brand": "Nike",
+        "sold30d": 142908,
+        "avg": "\u20ac40",
+        "sellThrough": "41%"
+      },
+      {
+        "brand": "adidas",
+        "sold30d": 82756,
+        "avg": "\u20ac37",
+        "sellThrough": "41%"
+      },
+      {
+        "brand": "Zara",
+        "sold30d": 61719,
+        "avg": "\u20ac24",
+        "sellThrough": "33%"
+      },
+      {
+        "brand": "Levi's",
+        "sold30d": 43763,
+        "avg": "\u20ac24",
+        "sellThrough": "34%"
+      },
+      {
+        "brand": "Ralph Lauren",
+        "sold30d": 23933,
+        "avg": "\u20ac45",
+        "sellThrough": "37%"
+      },
+      {
+        "brand": "Lululemon",
+        "sold30d": 23532,
+        "avg": "\u20ac34",
+        "sellThrough": "29%"
+      },
+      {
+        "brand": "The North Face",
+        "sold30d": 19910,
+        "avg": "\u20ac46",
+        "sellThrough": "33%"
+      },
+      {
+        "brand": "Under Armour",
+        "sold30d": 19780,
+        "avg": "\u20ac18",
+        "sellThrough": "45%"
+      }
+    ]
+  }
+}
