@@ -1,0 +1,9 @@
+{
+  "name": "Vinted Scout",
+  "short_name": "Vinted Scout",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f4f0",
+  "theme_color": "#241d35",
+  "icons": []
+}
